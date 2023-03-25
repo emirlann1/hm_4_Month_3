@@ -1,0 +1,38 @@
+[
+  {
+    "id": 0,
+    "url": "https://www.myphone.kg/files/media/7/7691.jpg",
+    "title": "Apple iPhone 11, 128 ГБ, Чёрный",
+    "price": 49900
+  },
+  {
+    "id": 1,
+    "url": "https://asiastore.kg/image/cachewebp/catalog/iphone/iphone-12-mini/e4c5220f87aa1a0af1b81682b16338de-670x540.webp",
+    "title": "Apple iPhone 12 mini, 128 ГБ, Белый",
+    "price": 54990
+  },
+  {
+    "id": 2,
+    "url": "https://asiastore.kg/image/cachewebp/catalog/iphone/iphone12/201106080012768545-670x540.webp",
+    "title": "Apple iPhone 12, 128 ГБ, Белый",
+    "price": 63990
+  },
+  {
+    "id": 3,
+    "url": "https://asiastore.kg/image/cachewebp/catalog/iphone/iphone13/green/13alpinesai%CC%86t-670x540.webp",
+    "title": "iPhone 13 mini, 128 ГБ, Зеленый",
+    "price": 67990
+  },
+  {
+    "id": 4,
+    "url": "https://asiastore.kg/image/cachewebp/catalog/iphone/iphone13/210915120031628356-670x540.webp",
+    "title": "iPhone 13, 128 ГБ, Тёмная ночь",
+    "price": 69990
+  },
+  {
+    "id": 5,
+    "url": "https://asiastore.kg/image/cachewebp/catalog/iphone/iphone13pro/210915120039954461-670x540.webp",
+    "title": "iPhone 13 Pro, 1 ТБ, Графитовый",
+    "price": 120990
+  }
+]
